@@ -58,3 +58,24 @@ h1 {
   border-radius: 12px;
 }
 
+.bag-container:hover .item-exp {
+  transform: translate(-120px, -120px) scale(1);
+}
+
+.bag-container:hover .item-proj {
+  transform: translate(100px, -140px) scale(1);
+}
+
+.bag-container:hover .item-art {
+  transform: translate(-150px, -20px) scale(1);
+}
+
+.bag-container:hover .item-blog {
+  transform: translate(140px, -10px) scale(1);
+}
+
+.bag-container:hover .item-contact {
+  transform: translate(0, 140px) scale(1);
+}
+
+
